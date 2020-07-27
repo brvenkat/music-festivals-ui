@@ -1,4 +1,4 @@
-# Energy Australia
+# Music festivals UI
 
 ## Component Outline
 
